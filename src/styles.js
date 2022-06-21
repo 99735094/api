@@ -30,6 +30,7 @@ export  const Movies = styled.li`
     span {
         font-weight: bold;
         font-size: 120%;
+        text-align: center;
     }
     a{
         transition: all 0.3s;
